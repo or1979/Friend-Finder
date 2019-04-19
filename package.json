@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "friend-finder app",
+  "main": "apiRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/or1979/Friend-Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/or1979/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/or1979/Friend-Finder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11",
+    "path": "^0.12.7"
+  }
+}
